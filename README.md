@@ -2,8 +2,8 @@ BITS F364: Human Computer Interaction Project
 
 Area-10: Simulation of functionality of Buttons in 3D using sculptural effects in WIMP interface
 
-Nikhil Agarwal
-2020B2A71611P
+Nikhil Agarwal - 2020B2A71611P
+
 
 
 How to Run:
