@@ -7,7 +7,7 @@ Nikhil Agarwal
 
 
 How to Run:
-Extract the files from the .zip folder
-Open 'index.html'
+1. Extract the files from the .zip folder
+2. Open 'index.html'
 
 Site hosted on GitHub pages: https://nikhilagarwal07.github.io/HCI-project-portfolio-website/
